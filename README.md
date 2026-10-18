@@ -26,7 +26,7 @@ This is my fourth Python project, created as part of my programming journey. It 
 4. Run the following command:
 
    ```bash
-   python "4th Project.py"
+   python "main.py"
    ```
 
 ## 📚 What I Learned
